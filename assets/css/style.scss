@@ -1,0 +1,28 @@
+$co:Comic Sans MS,
+Comic Sans,
+cursive;
+html,
+body {
+    font-family: $co;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    .logo {
+        background-image: url("../img/Titre\ Lapin\ Malin.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: 50% 0;
+        height: 200px;
+        padding: 0;
+        h1 {
+            padding-top: 65px;
+            color: yellow;
+            -webkit-text-fill-color: yellow;
+            /* Will override color (regardless of order) */
+            -webkit-text-stroke-width: 1px;
+            -webkit-text-stroke-color: red;
+        }
+    }
+}
