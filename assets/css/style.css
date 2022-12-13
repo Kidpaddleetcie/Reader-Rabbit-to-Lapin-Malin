@@ -1,3 +1,8 @@
+html,
+body {
+  background-color: #EAE8FF;
+}
+
 @media screen and (max-width: 600px) {
   html,
   body {
@@ -16,6 +21,10 @@
   }
 }
 
+header {
+  background-color: #D60121 !important;
+}
+
 @media screen and (max-width: 600px) {
   header .logo {
     background-image: url("../img/Titre Lapin Malin.png");
@@ -51,6 +60,38 @@
     /* Will override color (regardless of order) */
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: red;
+  }
+}
+
+header .barre {
+  background-color: #024981;
+  margin: 0;
+}
+
+span[data-bs-toggle="collapse"]:hover {
+  cursor: pointer !important;
+  color: #8A7EA6;
+}
+
+h3 {
+  background-color: #024981;
+  color: #EAE8FF;
+  padding: 5px;
+}
+
+.card-body {
+  background-color: #EAE8FF;
+}
+
+@media screen and (max-width: 600px) {
+  .w-50 {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .collapse:not(.w-25 :first-child) {
+    width: 100% !important;
   }
 }
 /*# sourceMappingURL=style.css.map */

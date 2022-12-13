@@ -1,8 +1,14 @@
 $co:Comic Sans MS,
 Comic Sans,
 cursive;
+// Couleurs
+$c1:#8A7EA6;
+$c2:#D60121;
+$c3:#024981;
+$c4:#EAE8FF;
 html,
 body {
+    background-color: $c4;
     @media screen and (max-width: 600px) {
         font-family: Arial, Helvetica, sans-serif;
         margin: 0;
@@ -16,6 +22,7 @@ body {
 }
 
 header {
+    background-color: $c2 !important;
     @media screen and (max-width: 600px) {
         .logo {
             background-image: url("../img/Titre\ Lapin\ Malin.png");
@@ -51,5 +58,38 @@ header {
                 -webkit-text-stroke-color: red;
             }
         }
+    }
+    .barre {
+        background-color: $c3;
+        margin: 0;
+    }
+}
+
+span[data-bs-toggle="collapse"] {
+    &:hover {
+        cursor: pointer !important;
+        color: $c1;
+    }
+}
+
+h3 {
+    background-color: $c3;
+    color: $c4;
+    padding: 5px;
+}
+
+.card-body {
+    background-color: $c4;
+}
+
+.w-50 {
+    @media screen and (max-width: 600px) {
+        width: 100% !important;
+    }
+}
+
+.collapse:not(.w-25 :first-child) {
+    @media screen and (max-width: 600px) {
+        width: 100% !important;
     }
 }
