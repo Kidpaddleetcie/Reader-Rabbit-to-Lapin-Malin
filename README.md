@@ -15,10 +15,6 @@ Plusieurs questions vont avoir des réponses :
 
 ## Liste des jeux à encore inclure
 
-### 1993
-
-- Reader Rabbit 3
-
 ### 1994
 
 - Interactive Reading Journey
