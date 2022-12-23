@@ -7,18 +7,13 @@ Rétrospective des jeux Reader Rabbit ( Lapin Malin )
 Plusieurs questions vont avoir des réponses :
 
 - Quel est le jeu avec le plus de remake ? ( Le tout premier en a 5, on verra si un autre en aura plus )
-- En quelle année et avec quel jeu Lapin Malin est traduit en France ? ( rien n'est simple, le Wikipédia français doûte lui-même )
+- En quelle année et avec quel jeu Lapin Malin est traduit en France ? ( rien n'est simple, le Wikipédia français doûte lui-même MAIS C'EST "Interactive Reading Journey" )
 - Combiens de jeux en tout ? ( 36 jeux de base en anglais... sans compter les remakes )
 - Quels sont les courants graphiques, les séries ?
-- Quand apparaissent certains personnages principaux ? ( Mimi la souris apparait en 1994 avec la version Deluxe de Reader Rabbit and the Fabulous Word Factory )
+- Quand apparaissent certains personnages principaux ? ( Mimi la souris apparait en 1994 avec Sam le Lion dans "Interactive Reading Journey" )
 - Peut-on créer une chronologie avec les remakes, les jeux en anglais et les jeux en français sur une seule page web ? ( Ça, c'est compliqué ! )
 
 ## Liste des jeux à encore inclure
-
-### 1994
-
-- Interactive Reading Journey
-- Reading Development Library 1
 
 ### 1995
 
