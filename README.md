@@ -15,14 +15,6 @@ Plusieurs questions vont avoir des réponses :
 
 ## Liste des jeux à encore inclure
 
-### 1995
-
-- Reading Development Library 2
-
-- Reading Development Library 3
-- Reading Development Library 4
-- Let's Start Learning!
-
 ### 1996
 
 - Interactive Reading Journey 2
