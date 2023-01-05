@@ -6,7 +6,7 @@ Rétrospective des jeux Reader Rabbit ( Lapin Malin )
 
 Plusieurs questions vont avoir des réponses :
 
-- Quel est le jeu avec le plus de remake ? ( Le tout premier en a 5, on verra si un autre en aura plus )
+- Quel est le jeu avec le plus de remake ? ( Le tout premier en a 5, on verra si un autre en aura plus... pour l'instant, il y a "Reader Rabbit and Friends: Let's Start Learning!" qui comptabilise aussi 5 remakes. )
 - En quelle année et avec quel jeu Lapin Malin est traduit en France ? ( rien n'est simple, le Wikipédia français doûte lui-même MAIS C'EST "Interactive Reading Journey" )
 - Combiens de jeux en tout ? ( 36 jeux de base en anglais... sans compter les remakes )
 - Quels sont les courants graphiques, les séries ?
